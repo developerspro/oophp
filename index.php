@@ -13,7 +13,7 @@ $et->nome = "Zezinho";
 $et->curso = "Informática para Internet";
 
 $etpi->nome = "Luizinho";
-$etpi->curso = "Técnico Integral";
+$etpi->curso = "Administracao";
 
 echo $em->curso."<br>";
 echo $em->nome."<br>";
